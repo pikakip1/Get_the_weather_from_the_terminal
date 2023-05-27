@@ -2,9 +2,7 @@ import requests
 
 
 def get_weather(cities: tuple) -> None:
-
     payload = {'m': '', 'n': '', 'T': '', 'q': '', 'u': ''}
-
     url_template = 'https://wttr.in/{}'
 
     for city in cities:
