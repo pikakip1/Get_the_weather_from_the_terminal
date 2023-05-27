@@ -13,9 +13,9 @@ def get_weather(cities: tuple) -> None:
 
 
 def main():
-    if __name__ == '__main__':
-        cities = ('London', 'Череповец', 'svo')
-        get_weather(cities)
+    cities = ('London', 'Череповец', 'svo')
+    get_weather(cities)
 
 
-main()
+if __name__ == '__main__':
+    main()
