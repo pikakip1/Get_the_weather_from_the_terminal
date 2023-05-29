@@ -18,3 +18,5 @@ pip install requests
 Ваш вывод должен быть точно таким же
 
 ![](https://github.com/pikakip1/Get_the_weather_from_the_terminal/blob/main/lon.png)
+![](https://github.com/pikakip1/Get_the_weather_from_the_terminal/blob/main/img2.png)
+![](https://github.com/pikakip1/Get_the_weather_from_the_terminal/blob/main/img3.png)
