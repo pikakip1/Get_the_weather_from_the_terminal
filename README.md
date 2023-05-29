@@ -17,4 +17,4 @@ pip install requests
 
 Ваш вывод должен быть точно таким же
 
-[](https://ibb.co/JQnTNGz)
+![a](https://ibb.co/JQnTNGz)
