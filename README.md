@@ -17,4 +17,4 @@ pip install requests
 
 Ваш вывод должен быть точно таким же
 
-![alt tag](https://ibb.co/JQnTNGz)
+![alt tag]([url=https://ibb.co/JQnTNGz][img]https://i.ibb.co/JQnTNGz/lon.png[/img][/url])
