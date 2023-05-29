@@ -17,4 +17,4 @@ pip install requests
 
 Ваш вывод должен быть точно таким же
 
-![alt tag]([url=https://ibb.co/JQnTNGz][img]https://i.ibb.co/JQnTNGz/lon.png[/img][/url])
+![](https://github.com/pikakip1/Get_the_weather_from_the_terminal/blob/main/lon.png)
